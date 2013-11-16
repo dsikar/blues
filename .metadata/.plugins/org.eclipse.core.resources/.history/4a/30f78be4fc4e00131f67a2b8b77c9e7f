@@ -8,7 +8,8 @@ import android.view.Menu;
 
 public class MainActivity extends Activity {
 
-    private static final int REQUEST_ENABLE_BT = 1;
+    private static final int REQUEST_ENABLE_BT = 0;
+
 
 	@Override
     protected void onCreate(Bundle savedInstanceState) {
