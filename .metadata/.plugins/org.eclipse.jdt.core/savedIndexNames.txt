@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\Intel\Documents\GitHub\blues\.metadata\.plugins\org.eclipse.jdt.core
+1017402558.index
+519297291.index
+3677360230.index
